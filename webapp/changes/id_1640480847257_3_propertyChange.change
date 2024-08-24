@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1640480847257_3_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "analiseatendimentos5",
+    "packageName": "",
+    "content": {
+        "property": "useExportToExcel",
+        "newValue": true
+    },
+    "selector": {
+        "id": "analiseatendimentos5::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::ZA_270_FE_ATENDIMENTO5--table",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smarttable.SmartTable"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/analiseatendimentos5/changes/",
+    "projectId": "analiseatendimentos5",
+    "creation": 1640480847257,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "latest",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "1.0.0",
+        "to": "1.0.0",
+        "creation": "1.0.0"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
